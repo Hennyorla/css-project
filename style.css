@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;1,300;1,700&display=swap');
+
+
 *{
     background-color: rgb(204, 180, 41);
 } 
@@ -34,6 +37,7 @@ h1{
 }
 .nav-item{
     font-size: 1.4em;
+    font-family: roboto;
 }
 
 nav a {
